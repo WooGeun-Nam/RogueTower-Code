@@ -63,7 +63,7 @@
 
 - `Network/PlayFabLogin.cs` — PlayFab 로그인
 - `Network/GameAnalyticsManager.cs` — 세션 캐싱, 플레이 데이터 수집
-- `Network/PlayFabLogin.cs` — 오류 데이터 수집
+- `Network/ExceptionReporter.cs` — 오류 데이터 수집
 
 ---
 
