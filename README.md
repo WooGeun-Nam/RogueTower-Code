@@ -61,7 +61,9 @@
 
 ## 6) 온라인 / 플랫폼
 
-- `Network/PlayFabLogin.cs` — PlayFab 로그인, 오류 처리, 세션 캐싱
+- `Network/PlayFabLogin.cs` — PlayFab 로그인
+- `Network/GameAnalyticsManager.cs` — 세션 캐싱, 플레이 데이터 수집
+- `Network/PlayFabLogin.cs` — 오류 데이터 수집
 
 ---
 
