@@ -31,6 +31,7 @@
 - `Data/Models/TowerArchetype.cs` — 타워 스펙 정의 (사거리, 연사, 데미지 등)
 - `Data/EquipmentData.cs` — 장비/슬롯 데이터, 밸런스 친화적 설계
 - `Data/DifficultyData.cs` — 난이도 곡선 파라미터 직렬화
+- `Data/SpecialSkillBase.cs` — 장비 특수 스킬 구현 추상 클래스
 
 ---
 
