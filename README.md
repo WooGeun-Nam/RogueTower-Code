@@ -60,6 +60,7 @@
 - `UI/TooltipTrigger.cs` — 뷰에서 **툴팁 의도**만 발행, 소비자는 독립적 처리
 - `UI/LeaderboardUI.cs` — 랭킹 UI 동적 리스트 구성 및 포매팅
 - `UI/ShopManager.cs` — 상점 UI 구성 및 랜덤 뽑기 기능
+- `UI/UIManager.cs` - 게임 내 UI 패널의 표시, 전환, 애니메이션을 관리하는 클래스
 
 ---
 
