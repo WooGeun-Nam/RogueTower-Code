@@ -21,6 +21,7 @@
 - `System/TooltipManager.cs` — **이벤트 기반** 툴팁 서비스 (UI-로직 분리)
 - `System/WeightedRandomReward.cs` — 시드 기반 **가중치 보상 테이블**
 - `System/SoundManager.cs` — 사운드 파일 로드 및 재생 관리 ( 오디오 풀링 )
+- `System/LoadingSceneController.cs` — 로딩신 제어 스크립트
 
 ---
 
