@@ -39,6 +39,7 @@
 - `Tower/TowerWeapon.cs` — 무기 공격 파이프라인 (투사체, 즉발, 지속형)
 - `Tower/TowerTemplate.cs` — **컴포지션 기반** 확장 구조
 - `Tower/TowerSpawner.cs` — 안전한 인스턴스 생성/초기화 팩토리
+- `Tower/WeaponStates/IWeaponState.cs` — 타워 무기의 상태를 정의하는 인터페이스 / 각 상태는 개별 스크립트에서 구현
 - `Enemy/Enemy.cs` — 적 유닛 라이프사이클, 데미지 처리, 사망 이벤트
 - `Enemy/EnemySpawner.cs` — 웨이브 단위 적 소환 및 맵 연동
 - `Enemy/WaveSystem.cs` — 웨이브 진행 및 규칙 제어
@@ -61,6 +62,7 @@
 - `UI/LeaderboardUI.cs` — 랭킹 UI 동적 리스트 구성 및 포매팅
 - `UI/ShopManager.cs` — 상점 UI 구성 및 랜덤 뽑기 기능
 - `UI/UIManager.cs` - 게임 내 UI 패널의 표시, 전환, 애니메이션을 관리하는 클래스
+- `UI/UIEventManager.cs` - UI 관련 이벤트를 중앙 관리
 
 ---
 
