@@ -9,7 +9,7 @@
 
 - 서브시스템 단위로 대표 파일을 나누어 정리했습니다.
 - 각 파일은 구조와 의도를 빠르게 이해할 수 있도록 핵심만 담았습니다.
-- 전체 개발 과정과 데모는 [웹 포트폴리오](https://woogeun-nam.github.io/towerdefense-portfolio/)에서 확인할 수 있습니다.
+- 전체 개발 과정과 데모는 [웹 포트폴리오](https://woogeun-nam.github.io/towerdefense-portfolio/projects/roguetower/)에서 확인할 수 있습니다.
 
 ---
 
@@ -22,6 +22,7 @@
 - `System/WeightedRandomReward.cs` — 시드 기반 **가중치 보상 테이블**
 - `System/SoundManager.cs` — 사운드 파일 로드 및 재생 관리 ( 오디오 풀링 )
 - `System/LoadingSceneController.cs` — 로딩신 제어 스크립트
+- `System/GameManager.cs` — 인게임 데이터 및 무한모드 제어
 
 ---
 
