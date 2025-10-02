@@ -58,6 +58,7 @@
 - `UI/TowerDataViewer.cs` — 데이터/이벤트 바인딩, 참조 교체 핫스왑
 - `UI/TooltipTrigger.cs` — 뷰에서 **툴팁 의도**만 발행, 소비자는 독립적 처리
 - `UI/LeaderboardUI.cs` — 랭킹 UI 동적 리스트 구성 및 포매팅
+- `UI/ShopManager.cs` — 상점 UI 구성 및 랜덤 뽑기 기능
 
 ---
 
@@ -72,6 +73,12 @@
 ## 7) 유틸리티
 
 - `Utils/StatTypeConverter.cs` — 스탯 변환 유틸리티
+
+---
+
+## 8) 기타
+
+- `Data/SpecialSkills/Skill_StatueOfDestructionGod.cs` — '파괴신의 석상' 장비 기능 구현
 
 ---
 
